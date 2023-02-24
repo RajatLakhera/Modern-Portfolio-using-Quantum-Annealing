@@ -1,4 +1,4 @@
-# Modern-Portfolio-using-Quantum-Annealing
+# Modern-Portfolio-Theory-using-Quantum-Annealing
 
 This project was made as an assignment for the Advance Quantum Computing training by Qulabs. 
 The problem statements were:
